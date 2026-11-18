@@ -1,0 +1,320 @@
+{
+ "opengym_plan": 1,
+ "exported": "2026-11-17",
+ "name": "Rutina Miguel (3 torso + 1 pierna)",
+ "unit": "kg",
+ "week": {},
+ "routines": [
+  {
+   "id": "r0",
+   "name": "Torso A",
+   "emoji": "dumbbell",
+   "ex": [
+    {
+     "id": "0025",
+     "sets": 3,
+     "reps": 10,
+     "repsMin": 8,
+     "prog": "double",
+     "restSec": 105,
+     "subs": [
+      "0289"
+     ],
+     "note": "Peso inicio: 30 kg + 10 L. Alternativa: con mancuernas."
+    },
+    {
+     "id": "2661",
+     "sets": 3,
+     "reps": 10,
+     "repsMin": 8,
+     "prog": "double",
+     "restSec": 105,
+     "note": "Remo agarre cerrado en polea. Peso inicio: 8P."
+    },
+    {
+     "id": "0603",
+     "sets": 3,
+     "reps": 10,
+     "repsMin": 8,
+     "prog": "double",
+     "restSec": 90,
+     "note": "Press militar en máquina. Peso inicio: 15 kg."
+    },
+    {
+     "id": "5656",
+     "sets": 3,
+     "reps": 15,
+     "repsMin": 12,
+     "prog": "double",
+     "restSec": 75,
+     "note": "Jalón a la cara con cuerda. Peso inicio: 5P."
+    },
+    {
+     "id": "0313",
+     "sets": 2,
+     "reps": 12,
+     "repsMin": 10,
+     "prog": "double",
+     "restSec": 60,
+     "note": "En banco inclinado. Peso inicio: 8 kg."
+    },
+    {
+     "id": "0200",
+     "sets": 2,
+     "reps": 12,
+     "repsMin": 10,
+     "prog": "double",
+     "restSec": 60,
+     "note": "Peso inicio: 4P."
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "name": "Torso B",
+   "emoji": "dumbbell",
+   "ex": [
+    {
+     "id": "0047",
+     "sets": 3,
+     "reps": 10,
+     "repsMin": 8,
+     "prog": "double",
+     "restSec": 105,
+     "subs": [
+      "0314"
+     ],
+     "note": "Peso inicio: 35 kg. Alternativa: con mancuernas."
+    },
+    {
+     "id": "2291",
+     "sets": 3,
+     "reps": 10,
+     "repsMin": 8,
+     "prog": "double",
+     "restSec": 105,
+     "note": "Agarre ancho en pronación. Peso inicio: 6P."
+    },
+    {
+     "id": "0192",
+     "sets": 3,
+     "reps": 15,
+     "repsMin": 12,
+     "prog": "double",
+     "restSec": 60,
+     "side": true,
+     "note": "Elevación lateral a un brazo en polea baja. Peso inicio: 1-2P."
+    },
+    {
+     "id": "2393",
+     "sets": 3,
+     "reps": 12,
+     "repsMin": 10,
+     "prog": "double",
+     "restSec": 90,
+     "side": true,
+     "note": "Con una mano y una rodilla apoyadas en el banco. Peso inicio: 18 kg."
+    },
+    {
+     "id": "1723",
+     "sets": 2,
+     "reps": 12,
+     "repsMin": 10,
+     "prog": "double",
+     "restSec": 60,
+     "side": true,
+     "note": "Multimáquina, ejercicio 5 del panel (Single arm tricep). Peso inicio: 2-3P."
+    },
+    {
+     "id": "5450",
+     "sets": 2,
+     "reps": 21,
+     "restSec": 75,
+     "note": "21 = 7 abajo + 7 arriba + 7 completas. Peso inicio: 8 L."
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "name": "Pierna",
+   "emoji": "figureStrength",
+   "ex": [
+    {
+     "id": "0739",
+     "sets": 4,
+     "reps": 10,
+     "repsMin": 8,
+     "prog": "double",
+     "restSec": 120,
+     "note": "Pies abiertos y abajo en la plataforma (sumo). Peso inicio: 6P."
+    },
+    {
+     "id": "1459",
+     "sets": 4,
+     "reps": 10,
+     "repsMin": 8,
+     "prog": "double",
+     "restSec": 120,
+     "note": "Técnica antes que carga: bisagra de cadera, espalda recta. Peso inicio: 12-14 kg c/u."
+    },
+    {
+     "id": "0585",
+     "sets": 3,
+     "reps": 15,
+     "repsMin": 12,
+     "prog": "double",
+     "restSec": 75,
+     "note": "Peso inicio: 3P."
+    },
+    {
+     "id": "0599",
+     "sets": 3,
+     "reps": 12,
+     "repsMin": 10,
+     "prog": "double",
+     "restSec": 75,
+     "note": "Peso inicio: 4P."
+    },
+    {
+     "id": "1391",
+     "sets": 3,
+     "reps": 15,
+     "repsMin": 12,
+     "prog": "double",
+     "restSec": 60,
+     "note": "En la prensa de piernas, piernas estiradas (gemelo). Peso inicio: a probar."
+    },
+    {
+     "id": "1202",
+     "sets": 3,
+     "reps": 12,
+     "repsMin": 10,
+     "prog": "double",
+     "restSec": 60,
+     "side": true,
+     "note": "De pie, polea a la altura del pecho. No dejes que el cable te gire. Peso inicio: 2-3P."
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "name": "Torso C",
+   "emoji": "dumbbell",
+   "ex": [
+    {
+     "id": "0179",
+     "sets": 4,
+     "reps": 12,
+     "repsMin": 10,
+     "prog": "double",
+     "restSec": 90,
+     "note": "Pecho superior, polea en posición baja. Peso inicio: 4P."
+    },
+    {
+     "id": "1194",
+     "sets": 4,
+     "reps": 10,
+     "repsMin": 8,
+     "prog": "double",
+     "restSec": 105,
+     "note": "Máquina de remo inclinado con apoyo de pecho, agarre neutro. Peso inicio: 2P por lado."
+    },
+    {
+     "id": "0405",
+     "sets": 3,
+     "reps": 10,
+     "repsMin": 8,
+     "prog": "double",
+     "restSec": 90,
+     "note": "Peso inicio: 10 kg c/u."
+    },
+    {
+     "id": "0225",
+     "sets": 3,
+     "reps": 15,
+     "repsMin": 12,
+     "prog": "double",
+     "restSec": 60,
+     "note": "Cables cruzados en poleas altas. Peso inicio: 2-3P por lado."
+    },
+    {
+     "id": "0294",
+     "sets": 2,
+     "reps": 12,
+     "repsMin": 10,
+     "prog": "double",
+     "restSec": 60,
+     "note": "Peso inicio: 10 kg c/u."
+    },
+    {
+     "id": "0194",
+     "sets": 2,
+     "reps": 12,
+     "repsMin": 10,
+     "prog": "double",
+     "restSec": 60,
+     "note": "Peso inicio: 5P."
+    },
+    {
+     "id": "1208",
+     "sets": 3,
+     "reps": 12,
+     "restSec": 60,
+     "side": true,
+     "note": "Leñador de arriba hacia abajo (ejercicio 11 del panel). Peso inicio: 3P."
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "name": "Extra (opcional)",
+   "emoji": "figureStrength",
+   "ex": [
+    {
+     "id": "0599",
+     "sets": 3,
+     "reps": 15,
+     "repsMin": 12,
+     "prog": "double",
+     "restSec": 60,
+     "note": "Día liviano: 2-3 reps lejos del fallo."
+    },
+    {
+     "id": "0585",
+     "sets": 3,
+     "reps": 15,
+     "restSec": 60,
+     "note": "Sin buscar el fallo."
+    },
+    {
+     "id": "0598",
+     "sets": 2,
+     "reps": 15,
+     "repsMin": 12,
+     "prog": "double",
+     "restSec": 60,
+     "note": "Superserie con el abductor. Peso inicio: 4P.",
+     "sg": "s1"
+    },
+    {
+     "id": "0597",
+     "sets": 2,
+     "reps": 15,
+     "repsMin": 12,
+     "prog": "double",
+     "restSec": 60,
+     "note": "Superserie con el aductor. Peso inicio: 5P.",
+     "sg": "s1"
+    },
+    {
+     "id": "0594",
+     "sets": 3,
+     "reps": 15,
+     "restSec": 60,
+     "note": "Controla la bajada. Peso inicio: 4P."
+    }
+   ]
+  }
+ ],
+ "customEx": []
+}
